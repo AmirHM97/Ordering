@@ -1,0 +1,30 @@
+//"MassTransit": {
+//  "Host": "rabbitmq://192.168.1.36",
+//  "Username": "admin",
+//  "Password": "107747@Rabbit"
+//}
+
+
+//"MassTransit": {
+//  // "Host": "rabbitmq://192.168.1.35",
+//  //"Host": "rabbitmq://192.168.1.36",
+//  //"Username": "admin",
+//  //"Password": "107747@Rabbit"
+//  "Host": "rabbitmq://188.213.65.71",
+//  "Username": "admin",
+//  "Password": "107747@Rabbit"
+//},
+
+// "Identity": {
+//   "host": "https://api.kookbaz.ir/idp"
+//   //"host": "http://192.168.1.35:6001",
+//   //  "host": "http://188.213.65.84:6001"
+// },
+
+
+ //"MsSql": "Server=81.28.58.74;Database=Cloudware.Microservice.Ordering;Trusted_Connection=false;User Id=sa;Password=6692110@Sql",
+
+    
+   // "MsSql": "Server=192.168.1.36;Database=Cloudware.Microservice.Ordering;Trusted_Connection=false;User Id=sa;Password=107747@Sql",
+   // "MongoDb": "mongodb://admin:107747@192.168.1.36:27017/OrderingReadDb"
+    // "MongoDb": "mongodb://admin:1077476692110@81.28.58.85:60217/OrderingReadDb"
